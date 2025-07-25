@@ -15,11 +15,4 @@ Nvagos es una herramienta ofensiva en fase experimental diseñada para pruebas d
 
 ```bash
 chmod +x nvagos.py
-./nvagos.py```
-
-
-# Autor
-Maikol Eng
-Estudiante de Ciberseguridad @TheBridge
-
-La mejor defensa es el conocimiento interior. El Tao fluye en la red.”
+./nvagos.py
